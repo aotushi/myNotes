@@ -105,5 +105,5 @@ theme: next
 
 deploy:
   type: 'git'
-  #repo: git@github.com:aotushi/myNotes.git
+  repo: git@github.com:aotushi/myNotes.git
   branch: gh-pages
